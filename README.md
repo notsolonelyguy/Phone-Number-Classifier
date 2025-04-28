@@ -1,6 +1,6 @@
 # Phone Number Classifier
 
-A Python utility for classifying phone numbers from CSV data, specifically identifying Indian phone numbers and categorizing international numbers by country.
+A Python utility for classifying phone numbers from CSV data, specifically identifying Indian phone numbers and categorizing international numbers by country. I had created this tool to help my team in my previous internship to segreate leads from diffrent countries (based on their phone numbers) for cold calling and marketing campaigns. I saved almost 9 hours of manual tasks and made them quite a lot of money.
 
 ## 📋 Overview
 
